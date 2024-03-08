@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create User via API and update DB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cb9f783-3fe1-4e6d-b6f3-c0f4301f1bbf</testCaseGuid>
+</TestCaseEntity>
